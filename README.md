@@ -57,8 +57,11 @@ p1_id p2_id label
 接下来计算P(vi)的值，如示例的第一行，不妨设为V1，第二行V2，我们用边缘概率，计算V1在取1时的概率，考虑先验变量，得置信值。    
 
 最后得到的结果为：
+
 ![image](https://github.com/TomatoTang/Deepdive_/blob/master/image/image1.png)
+
 若采用deepdive提供的可视化工具Mindtagger，http://deepdive.stanford.edu/labeling 启动web服务可实现可视化：
+
 ![image](https://github.com/TomatoTang/Deepdive_/blob/master/image/image2.png)
 
 
